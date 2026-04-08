@@ -2,6 +2,8 @@ streamlit
 geopandas
 rasterio
 numpy
-matplotlib
-scikit-learn
-joblib
+folium
+streamlit-folium
+shapely
+fiona
+pyproj
